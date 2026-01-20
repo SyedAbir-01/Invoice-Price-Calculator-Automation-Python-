@@ -1,0 +1,9 @@
+Product,Price,Quantity,Total
+Notebook,2.5,4,10.0
+Pen,1.2,10,12.0
+Mouse,15.0,1,15.0
+Keyboard,25.0,1,25.0
+
+Subtotal,,,62.0
+Tax (10%),,,6.2
+Grand Total,,,68.2
